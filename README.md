@@ -1,2 +1,3 @@
-# sugarlump-Soccer-Star
-sugarlump AR
+surgarlump Soccer Star
+Augmented Reality
+
